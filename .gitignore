@@ -13,5 +13,7 @@ env/
 .idea/
 .vscode/
 
+
 # Project Specific
 .python-version
+.env
